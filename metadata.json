@@ -1,0 +1,6 @@
+{
+  "name": "NyaySetu - LegalTech Case Portal",
+  "description": "Unified, India-first litigation workflow platform connecting eCourts data, documents, deadlines, and client communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
